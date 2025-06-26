@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that provides tools for managing Thunder Client licenses through their API.
 
+<a href="https://glama.ai/mcp/servers/@chezsmithy/thunderclient-license-manager-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@chezsmithy/thunderclient-license-manager-mcp/badge" alt="Thunder Client License Manager Server MCP server" />
+</a>
+
 ## Features
 
 - **Add licenses**: Add Thunder Client licenses for specified email addresses
